@@ -40,4 +40,8 @@ secretMessage.splice(6, 5, 'know');
 
 /* On one line, use console.log() and .join() to print the secret 
 message as a sentence. */
-console.log(secretMessage.join())
+console.log(secretMessage.join(' '))
+/*This method joins the individual elements togeter. 
+The argument, quotes with and empty space is used to remove the commas that 
+seperated the elements within the array. Without this, you still get commas after each element
+depsite them being joined */
