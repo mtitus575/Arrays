@@ -4,3 +4,4 @@ let secretMessage = ['Learning', 'is', 'not', 'about', 'what', 'you',
                      'out.', '-2015,', 'Chris', 'Pine,', 'Learn', 
                      'JavaScript'];
 
+a
